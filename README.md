@@ -34,6 +34,7 @@ At the begining of the script there are some variables you can adjust:
  - CONCURRENT: how many mirrors to be evaluated at the same time.
  - SAVE_LOCATION: where to save the temporary packages and at the end, the Results.txt. Leave blank <code>''</code> for the default, wich is <code>/$home/$user/Downloads</code>
 
+## Be advised ##
 
-
+I made this script for personal use, I'm sharing it AS IS because it might help somebody. I do not pretend to give any form of help or update the script in any way.
 
